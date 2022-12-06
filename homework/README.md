@@ -2,10 +2,10 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/MIANE999/sf_data_science/blob/main/homework/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/MIANE999/sf_data_science/blob/main/homework/README.md#Какой-кейс-решаем)
-[4. Этапы работы над проектом](https://github.com/MIANE999/sf_data_science/blob/main/homework/python8_game.py#Этапы-работы-над-проектом)      
-[3. Результат](https://github.com/MIANE999/sf_data_science/blob/main/homework/python8_game.ipynb#Результат)  
-[4. Выводы](https://github.com/MIANE999/sf_data_science/blob/main/homework/README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/MIANE999/sf_data_science/blob/main/homework/README.md#Какой-кейс-решаем)     
+[3. Этапы работы над проектом](https://github.com/MIANE999/sf_data_science/blob/main/homework/python8_game.py#Этапы-работы-над-проектом)      
+[4. Результат](https://github.com/MIANE999/sf_data_science/blob/main/homework/python8_game.ipynb#Результат)  
+[5. Выводы](https://github.com/MIANE999/sf_data_science/blob/main/homework/README.md#Выводы) 
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
